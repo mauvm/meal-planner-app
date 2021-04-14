@@ -26,7 +26,7 @@
     "@zeit/next-source-maps": "^0.0.3",
     "antd": "^4.2.2",
     "autobind-decorator": "^2.4.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "dotenv": "^8.2.0",
     "helpful-decorators": "^2.0.6",
     "http-status-codes": "^1.4.0",
